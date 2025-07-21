@@ -1,0 +1,16 @@
+u1	Amna Akram	u2	u3	u4	-1	p1	p2	-1
+u2	Zara Hassan	u1	u5	u6	-1	p2	p3	-1
+u3	Abia Mobashar	u4	u7 u2	-1	-1
+u4	Komal Hassan	u1	u8	u9	u10	-1	p10	-1
+u5	Laiba Fida	u2	-1	p9	p10	-1
+u6	Saad Ali	u2	u11	-1	p8	-1
+u7	Abdullah Nadeem	u3	u11	u12	-1	p1	p2	p5	p9	-1
+u8	Zainab Saad	u4	u11	-1	-1
+u9	Farah Munawar	u4	-1	p4	-1
+u10	Eesha Fatima	u4	u12	-1	p2	-1
+u11	Manal Rehman	u6	u7	u8	-1	p1	-1
+u12	Ali Ahmed	u7	u10	-1	p5	-1
+u13	Sara Arif	u14	u15	-1	p3	-1
+u14	Usman Ali	u13	u14	-1	p2	-1
+u15	Adeela Hassan	u13	u10	-1	p1	-1
+
