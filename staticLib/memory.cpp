@@ -1,5 +1,5 @@
 #include <iostream>
-#include "memory 24L-0575.h"
+#include "memory.h"
 
 using namespace std;
 
