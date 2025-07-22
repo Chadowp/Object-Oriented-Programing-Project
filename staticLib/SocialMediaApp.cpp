@@ -1,9 +1,9 @@
-#include "Comment 24L-0575.h"
-#include "Date 24L-0575.h"
-#include "memory 24L-0575.h"
-#include "Network 24L-0575.h"
-#include "post 24L-0575.h"
-#include "SocialMediaApp 24L-0575.h"
+#include "Comment.h"
+#include "Date.h"
+#include "memory.h"
+#include "Network.h"
+#include "post.h"
+#include "SocialMediaApp.h"
 #include <iostream>
 #include <fstream>
 #include "raylib.h"
