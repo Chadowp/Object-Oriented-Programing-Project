@@ -1,6 +1,6 @@
-#include "Network 24L-0575.h"
-#include "post 24L-0575.h"
-#include "Date 24L-0575.h"
+#include "Network.h"
+#include "post.h"
+#include "Date.h"
 #include <iostream>
 #include <fstream>
 #include "raylib.h"
