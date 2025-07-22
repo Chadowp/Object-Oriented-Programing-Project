@@ -2,8 +2,8 @@
 
 #include <iostream>
 #include <string>
-#include "Network 24L-0575.h"
-#include "Date 24L-0575.h"
+#include "Network.h"
+#include "Date.h"
 
 class Post;
 
