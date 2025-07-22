@@ -2,9 +2,9 @@
 
 #include <string>
 #include <fstream>
-#include "Date 24L-0575.h"
-#include "activity 24L-0575.h"
-#include "Comment 24L-0575.h"
+#include "Date.h"
+#include "activity.h"
+#include "Comment.h"
 
 class Manager;
 class Comment;
