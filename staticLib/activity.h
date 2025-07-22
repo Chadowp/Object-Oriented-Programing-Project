@@ -3,10 +3,10 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "Date 24L-0575.h"
-#include "Network 24L-0575.h"
-#include "post 24L-0575.h"
-#include "Comment 24L-0575.h"
+#include "Date.h"
+#include "Network.h"
+#include "post.h"
+#include "Comment.h"
 
 using namespace std;
 
