@@ -4,7 +4,7 @@
 #include <fstream>
 #include "Date.h"
 #include "post.h"
-#include "Comment 24L-0575.h"
+#include "Comment.h"
 
 using namespace std;
 
