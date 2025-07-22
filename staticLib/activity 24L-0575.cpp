@@ -1,5 +1,5 @@
 #include <iostream>
-#include "activity 24L-0575.h"
+#include "activity.h"
 
 using namespace std;
 
