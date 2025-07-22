@@ -1,7 +1,7 @@
 #include <iostream>
-#include "post 24L-0575.h"
-#include "Date 24L-0575.h"
-#include "Network 24L-0575.h"
+#include "post.h"
+#include "Date.h"
+#include "Network.h"
 #include <fstream>
 
 using namespace std;
