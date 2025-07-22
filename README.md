@@ -50,15 +50,14 @@ social-network-raylib/
 ├── game/
 │   └── src/
 │       └── main.cpp                      # Entry point
-├── raylib-master/
-│   └── src/
-│       ├── activity 24L-0575.cpp/.h
-│       ├── Comment 24L-0575.cpp/.h
-│       ├── Date 24L-0575.cpp/.h
-│       ├── memory 24L-0575.cpp/.h
-│       ├── Network 24L-0575.cpp/.h
-│       ├── Post 24L-0575.cpp/.h
-│       └── SocialMediaApp 24L-0575.cpp/.h
+├── StaticLib/
+│    ├── activity.cpp/.h
+│    ├── Comment.cpp/.h
+│    ├── Date.cpp/.h
+│    ├── memory.cpp/.h
+│    ├── Network.cpp/.h
+│    ├── Post.cpp/.h
+│    └── SocialMediaApp.cpp/.h
 ├── game-premake-main.sln                # Visual Studio solution file
 ├── arial.ttf                            # Font for Raylib rendering
 ├── page.txt                             # Page metadata
