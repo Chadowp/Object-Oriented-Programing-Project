@@ -1,5 +1,5 @@
-#include "Comment 24L-0575.h"
-#include "Network 24L-0575.h"
+#include "Comment.h"
+#include "Network.h"
 #include <fstream>
 using namespace std;
 Comment::Comment(const char* id, const char* body, Manager* creator)
