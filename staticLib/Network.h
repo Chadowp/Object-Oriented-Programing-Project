@@ -2,8 +2,8 @@
 
 #include <string>
 #include <fstream>
-#include "Date 24L-0575.h"
-#include "post 24L-0575.h"
+#include "Date.h"
+#include "post.h"
 #include "Comment 24L-0575.h"
 
 using namespace std;
