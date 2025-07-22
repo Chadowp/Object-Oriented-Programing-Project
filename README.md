@@ -65,6 +65,8 @@ social-network-raylib/
 ├── .gitignore
 └── README.md
 
+```
+
 ## Features Implemented
 
     Set system date & current user
@@ -83,7 +85,7 @@ social-network-raylib/
 
     Note: This project was completed under a tight deadline, so some functionality still uses console-based I/O alongside the Raylib interface. All core features and logic are fully functional and implemented.
 
-```
+
 ## Technologies Used
 
     -C++ (OOP)
@@ -96,5 +98,5 @@ social-network-raylib/
 
     -TrueType font rendering (Arial.ttf)
 
-##This was a solo project developed by:
+## This was a solo project developed by:
 	Laiba Fida
